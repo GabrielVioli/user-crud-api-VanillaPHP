@@ -1,23 +1,4 @@
 {
     "nextId": 4,
-    "users": [
-        {
-            "name": "Yzadorads",
-            "age": 19,
-            "email": "zazacrustiny@gmail.com",
-            "id": 1
-        },
-        {
-            "name": "naruto",
-            "age": 21,
-            "email": "gvoliveira@universidade.unicentro.br",
-            "id": 2
-        },
-        {
-            "name": "dsdsdsd",
-            "age": 12,
-            "email": "gabrielvioli16@gmail.com",
-            "id": 3
-        }
-    ]
+    "users": []
 }
