@@ -1,6 +1,6 @@
 ﻿# CRUD PHP Project - Backend
 
-Backend de um sistema CRUD de usuarios, desenvolvido em **PHP 8.2** com armazenamento em **arquivo JSON**. Este repositorio contem apenas o backend â€” o frontend consome a API via HTTP.
+Backend de um sistema CRUD de usuarios, desenvolvido em **PHP 8.2** com armazenamento em **arquivo JSON**. Este repositorio contem apenas o backend e o frontend consome a API via HTTP.
 
 ## Sumario
 
