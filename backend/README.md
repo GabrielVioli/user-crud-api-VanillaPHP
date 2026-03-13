@@ -262,18 +262,18 @@ curl -X DELETE "http://localhost:8000/api/users?id=1"
 
 ```
 backend/
-â”œâ”€â”€ data/
-â”‚   â””â”€â”€ data.json              # Base de dados (JSON)
-â”œâ”€â”€ src/
-â”‚   â”œâ”€â”€ public/
-â”‚   â”‚   â””â”€â”€ index.php          # Entry point da API
-â”‚   â”œâ”€â”€ config/
-â”‚   â”‚   â””â”€â”€ config.php         # Configuracoes gerais
-â”‚   â”œâ”€â”€ api.php                # Router simples
-â”‚   â”œâ”€â”€ controllers.php        # Controladores
-â”‚   â”œâ”€â”€ services.php           # Regras de negocio
-â”‚   â”œâ”€â”€ data.php               # Persistencia em JSON
-â”‚   â””â”€â”€ validation.php         # Validacoes
-â”œâ”€â”€ composer.json
-â””â”€â”€ vendor/
+|- data/
+|  |- data.json              # Base de dados (JSON)
+|- src/
+|  |- public/
+|  |  |- index.php          # Entry point da API
+|  |- config/
+|  |  |- config.php         # Configuracoes gerais
+|  |- api.php                # Router simples
+|  |- controllers.php        # Controladores
+|  |- services.php           # Regras de negocio
+|  |- data.php               # Persistencia em JSON
+|  |- validation.php         # Validacoes
+|- composer.json
+|- vendor/
 ```
